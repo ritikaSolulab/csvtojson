@@ -1,0 +1,22 @@
+[
+    {
+        "name": "gautam",
+        "age": "23",
+        "subject": "computer"
+    },
+    {
+        "name": "pooja",
+        "age": "23",
+        "subject": "maths"
+    },
+    {
+        "name": "sanjay",
+        "age": "25",
+        "subject": "hindi"
+    },
+    {
+        "name": "shubham",
+        "age": "29",
+        "subject": "social"
+    }
+]
